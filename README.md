@@ -1,5 +1,8 @@
-## Hi 👋, I'm Shivam Anand
-Turning ideas into reality through code.
+
+<h1 align="center">## Hi 👋, I'm Shivam Anand</h1>
+<p align="center">
+  <b>Turning ideas into reality through code.</b>
+</p>
 
 <!--
 **ShivamAnand26/ShivamAnand26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
